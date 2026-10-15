@@ -5,7 +5,8 @@ Proyecto de análisis exploratorio de datos enfocado en identificar tendencias d
 
 ## Enlace de Dashboard 
 [Dashboard interactivo](https://6ad00b9d4568e1e10d3aff26--plotly-interactivo.netlify.app/) para explorar ventas, productos, horarios y métodos de pago.
-
+## Notebook de análisis
+[Ver notebook de análisis](./coffee_sales_analysis.ipynb) — Limpieza, exploración y análisis de datos de ventas de café.
 
 ## Descripción del proyecto
 
